@@ -20,6 +20,6 @@ do
 
     echo "$instance: $IP"
 
-    
-    '
+
+
 done
