@@ -1,6 +1,7 @@
 #!/bin/bash
 
 AMI_ID="ami-0220d79f3f480ecf5"
+#AMI_ID="ami-09c813fb71547fc4f"
 SD_ID="sg-02e4e006dfaceac5c"
 ZONE_ID="Z08998102AQ5DAQ38NK0N" # replace with your ID
 DOMAIN_NAME="devresh.online"
